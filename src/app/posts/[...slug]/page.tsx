@@ -60,7 +60,7 @@ interface Post {
   id: number;
   title: string;
   image: string;
-  description: string; // Added description field
+  description: string;
 }
 
 export default function Page() {
